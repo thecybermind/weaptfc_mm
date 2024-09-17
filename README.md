@@ -4,7 +4,7 @@
 * Allows blocking of the 'fov' client command  
 * Allows scripting command registration when a player respawns, or changes class or team  
 * Allows delayed class-changes, preventing several TFC bugs/exploits  
-    
+
     ========
     COMMANDS
     ========
