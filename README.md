@@ -1,11 +1,11 @@
 # WEAPTFC_MM
 
-* Allows restriction of any weapon and grenade by class (i.e. can prevent medic from using super shotgun, but not other classes)
-* Allows blocking of the 'fov' client command
-* Allows scripting command registration when a player respawns, or changes class or team
-* Allows delayed class-changes, preventing several TFC bugs/exploits
+Allows restriction of any weapon and grenade by class (i.e. can prevent medic from using super shotgun, but not other classes)  
+Allows blocking of the 'fov' client command  
+Allows scripting command registration when a player respawns, or changes class or team  
+Allows delayed class-changes, preventing several TFC bugs/exploits  
 
-
+    
     ========
     COMMANDS
     ========
@@ -75,5 +75,5 @@
     =====
     
     weaptfc_version                the version of this MetaMod plugin
-    weaptfc_blockfov            if enabled, blocks users from using the FOV command to zoom-in
+    weaptfc_blockfov               if enabled, blocks users from using the FOV command to zoom-in
     weaptfc_blockfastswitch        if enabled, does not allow class-changes within 2 seconds
