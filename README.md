@@ -1,5 +1,7 @@
 # WEAPTFC_MM
 
+**plugin_weaptfc_mm.sma is an AdminMod script that will allow admins to restrict weapons on-demand.**  
+
 Allows restriction of any weapon and grenade by class (i.e. can prevent medic from using super shotgun, but not other classes)  
 Allows blocking of the 'fov' client command  
 Allows scripting command registration when a player respawns, or changes class or team  
